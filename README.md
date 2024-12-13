@@ -19,3 +19,14 @@ Projects and assignments completed in the Machine Learning for Business Analytic
 >  This project analyzes home sales data to identify key factors influencing sale prices through multiple linear regression modeling. This project demonstrates expertise in data wrangling, predictive modeling, and data-driven decision-making.
 - [View Project Code](Cabrera_Real_Eastate.ipynb)
 - [View Presentation](https://www.canva.com/design/DAGQ_jQY7KI/9pIkGK3J-hr4JhNEIfDRYQ/view?utm_content=DAGQ_jQY7KI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc81a94a300)
+### NASCAR Regression Assignment 
+> This short case study involved creating a linear regression model to help a NASCAR driver understand how he can increase his winnings.
+- [View Project Code](NASCAR_Regression.ipynb)
+
+## Time Series Analytics 
+### Preparing & Exploring Time Series Data 
+- [View Assignment Code](Cabrera_BAN6025_Assignment2.ipynb)
+### Forecasting Exam 
+- [View Code](Cabrera_BAN6025_ForecastingExamPt2.ipynb)
+
+
