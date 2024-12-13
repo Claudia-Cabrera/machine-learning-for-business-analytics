@@ -15,4 +15,5 @@ Projects and assignments completed in the Machine Learning for Business Analytic
   - Forecasting Exam
  
 ## Multiple Linear Regression 
-### __Real Estate Regression Project__
+### **Real Estate Regression Project:** ***Data-Driven Predictions & Recommendations for Home Prices in Local Real Estate Market***
+>  This project analyzes home sales data to identify key factors influencing sale prices through multiple linear regression modeling. This project demonstrates expertise in data wrangling, predictive modeling, and data-driven decision-making.
